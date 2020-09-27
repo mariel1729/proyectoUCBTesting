@@ -11,7 +11,6 @@ public class AddNoteActivity {
     public TextBox contentNote;
 
     public AddNoteActivity(){
-
         titleNote = new TextBox(By.id("com.vrproductiveapps.whendo:id/noteTextTitle"));
         contentNote= new TextBox(By.id("com.vrproductiveapps.whendo:id/noteTextNotes"));
         //add
@@ -19,7 +18,4 @@ public class AddNoteActivity {
         //addnew
         addNewNote = new Button(By.id("com.vrproductiveapps.whendo:id/saveAndNew"));
     }
-
-
-
 }
