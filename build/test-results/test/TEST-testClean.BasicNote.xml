@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testClean.BasicNote" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-27T01:19:33" hostname="DESKTOP-M79QRFI" time="33.239">
+  <properties/>
+  <testcase name="verifyAddNote" classname="testClean.BasicNote" time="30.706"/>
+  <testcase name="verifyOrderNotes" classname="testClean.BasicNote" time="2.533"/>
+  <system-out><![CDATA[PRIMER CASO DE PRUEBA CREAR  el ultimo en crear Gym4 = Gym
+SEGUNDO CASO DE PRUEBA ORDENAR  El primero por Alfabeto Class= Class
+]]></system-out>
+  <system-err><![CDATA[sep 26, 2020 9:19:52 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMACIÓN: Detected dialect: OSS
+]]></system-err>
+</testsuite>
